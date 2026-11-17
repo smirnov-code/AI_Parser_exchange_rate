@@ -3,1248 +3,1456 @@
         "name_medicinal_product": "D-Манноза суперкомплекс при цистите пакет-саше №7",
         "code": "ЦБ-00165507",
         "manufacturer": "Эвалар",
-        "type": "бад"
+        "type": "бад",
+        "course": "7"
     },
     {
         "name_medicinal_product": "Аденопросин супп. рект. 29мг №10",
         "code": "РТ-00012854",
         "manufacturer": "Биотехнос",
-        "type": "RX"
+        "type": "RX",
+        "course": "10"
     },
     {
         "name_medicinal_product": "АЕ витамин с природными витаминами капс. №30",
         "code": "ЦБ-00166447",
         "manufacturer": "Мирролла",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Актиферт-Андро таб. №30",
         "code": "ЦБ-00120666",
         "manufacturer": "Юнайтед Медикал Девайсез ЛЛК",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Алвовизан таб. п/о 2мг №28",
         "code": "РТ-00012827",
         "manufacturer": "Софарма",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Алоэ сок 100мл",
         "code": "РТ-00010811",
         "manufacturer": "Вифитех",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "6"
     },
     {
         "name_medicinal_product": "Алоэ сок 50мл",
         "code": "ЦБ-00000149",
         "manufacturer": "Вифитех",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "3"
     },
     {
         "name_medicinal_product": "Алтайский эликсир 250мл",
         "code": "ЦБ-00000158",
         "manufacturer": "Мелиген",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "8"
     },
     {
         "name_medicinal_product": "Алфупрост МР таб. пролонг 10мг №30",
         "code": "ЦБ-00027242",
         "manufacturer": "Ранбакси",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Анастрозол таб. п/п/о 1мг №30",
         "code": "ЦБ-00036809",
         "manufacturer": "Озон МНН",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Анжелик Микро таб. п/о №28",
         "code": "ЦБ-00034414",
         "manufacturer": "БАЙЕР",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Анжелик таб. п/о  №28",
         "code": "ЦБ-00000341",
         "manufacturer": "БАЙЕР",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Анти-Эйдж Ликопин капс. №30",
         "code": "00-00009337",
         "manufacturer": "Эвалар",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Апилак Гриндекс таб. подъяз. 10мг №25",
         "code": "ЦБ-00000362",
         "manufacturer": "Гриндекс",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "8"
     },
     {
         "name_medicinal_product": "Артезин таб. 4мг №30",
         "code": "ЦБ-00000390",
         "manufacturer": "Валента фармацевтика",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Аскорбинка 900мг + калий + магний таб. шип. №17",
         "code": "ЦБ-00166353",
         "manufacturer": "Аспера",
-        "type": "бад"
+        "type": "бад",
+        "course": "17"
     },
     {
         "name_medicinal_product": "Аскорбинка таб. крутка с вит.С 25мг №10",
         "code": "РТ-00009859",
         "manufacturer": "Профилактика",
-        "type": "бад"
+        "type": "бад",
+        "course": "3"
     },
     {
         "name_medicinal_product": "Аскорбинка таб. крутка с вит.С 25мг Апельсин №10",
         "code": "РТ-00009861",
         "manufacturer": "Профилактика",
-        "type": "бад"
+        "type": "бад",
+        "course": "3"
     },
     {
         "name_medicinal_product": "Аскорбинка таб. крутка с вит.С 25мг Клубника №10",
         "code": "РТ-00009860",
         "manufacturer": "Профилактика",
-        "type": "бад"
+        "type": "бад",
+        "course": "3"
     },
     {
         "name_medicinal_product": "Аскорбиновая к-та др. 45мг №200 (БАД)",
         "code": "РТ-00003601",
         "manufacturer": "Фармстандарт",
-        "type": "бад"
+        "type": "бад",
+        "course": "100"
     },
     {
         "name_medicinal_product": "Аскорбиновая к-та др. 50мг №200",
         "code": "ЦБ-00030235",
         "manufacturer": "Фармстандарт",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "20"
     },
     {
         "name_medicinal_product": "Аскорбиновая к-та др. 50мг №200",
         "code": "ЦБ-00000420",
         "manufacturer": "Алтайвитамины",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "100"
     },
     {
         "name_medicinal_product": "Аскорбиновая к-та пор. д/пригот. р-ра д/приема внутрь 2,5г №5",
         "code": "ЦБ-00162484",
         "manufacturer": "Озон МНН",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "25"
     },
     {
         "name_medicinal_product": "Аскорбиновая к-та р-р в/в и в/м 5% 2мл №10",
         "code": "ЦБ-00000416",
         "manufacturer": "Армавирская биофабрика",
-        "type": "RX"
+        "type": "RX",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Аскорбиновая к-та р-р в/в и в/м 5% 2мл №10",
         "code": "ЦБ-00015019",
         "manufacturer": "Борисовский завод мед.препаратов",
-        "type": "RX"
+        "type": "RX",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Аскорбиновая к-та р-р в/в и в/м 5% 2мл №10",
         "code": "ЦБ-00020082",
         "manufacturer": "Биосинтез",
-        "type": "RX"
+        "type": "RX",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Аскорбиновая к-та с сахаром клубника таб. 25мг №10 крутка",
         "code": "ЦБ-00005416",
         "manufacturer": "Экотекс",
-        "type": "бад"
+        "type": "бад",
+        "course": "3"
     },
     {
         "name_medicinal_product": "Бефунгин р-р внутр 100мл",
         "code": "ЦБ-00000642",
         "manufacturer": "Татхимфармпрепараты",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "22"
     },
     {
         "name_medicinal_product": "Бикалутамид таб. п/о 50мг №30",
         "code": "РТ-00007037",
         "manufacturer": "Озон МНН",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Бинефрон Уро капс. №60",
         "code": "ЦБ-00165300",
         "manufacturer": "Вис",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Бинефрон Цисто пор. д/пригот. р-ра д/приема внутрь 3г №10",
         "code": "ЦБ-00165301",
         "manufacturer": "Вис",
-        "type": "бад"
+        "type": "бад",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Бинтли Т Бинт липкий, 10х25см",
         "code": "ЦБ-01015014",
         "manufacturer": null,
-        "type": null
+        "type": null,
+        "course": null
     },
     {
         "name_medicinal_product": "Биотиналь В7 таб. 10мг №30",
         "code": "ЦБ-00176355",
         "manufacturer": "Акрихин",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Биофер таб. жеват. №30",
         "code": "ЦБ-00031677",
         "manufacturer": "Микро Лабс",
-        "type": "RX"
+        "type": "RX",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Битригам р-р в/м 2мл №5",
         "code": "ЦБ-00148934",
         "manufacturer": "Б-фарм",
-        "type": "RX"
+        "type": "RX",
+        "course": "5"
     },
     {
         "name_medicinal_product": "Бифидумбактерин супп. ваг/рект №10",
         "code": "ЦБ-00000707",
         "manufacturer": "Витафарма",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "2"
     },
     {
         "name_medicinal_product": "Благомакс витамины группы В капс. №30",
         "code": "ЦБ-00165996",
         "manufacturer": "Вис",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Благомакс Красота и сияние витамины д/волос кожи и ногтей капс. №60",
         "code": "ЦБ-00160793",
         "manufacturer": "Вис",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Благомин витамин В1 (тиамин) капс. №40",
         "code": "ЦБ-00157695",
         "manufacturer": "Вис",
-        "type": "бад"
+        "type": "бад",
+        "course": "20"
     },
     {
         "name_medicinal_product": "Благомин витамин В6 (пиридоксин) капс. №40",
         "code": "ЦБ-00157738",
         "manufacturer": "Вис",
-        "type": "бад"
+        "type": "бад",
+        "course": "20"
     },
     {
         "name_medicinal_product": "Благомин Витамин Н (биотин 150мкг) капс. 250мг №90",
         "code": "ЦБ-00025587",
         "manufacturer": "Вис",
-        "type": "бад"
+        "type": "бад",
+        "course": "90"
     },
     {
         "name_medicinal_product": "Благомин Витамин С (аскорбиновая кислота) капс. N90",
         "code": "ЦБ-00026923",
         "manufacturer": "Вис",
-        "type": "бад"
+        "type": "бад",
+        "course": "45"
     },
     {
         "name_medicinal_product": "Бэби Формула Мишки Железо пастилки жеват. №60",
         "code": "ЦБ-00169443",
         "manufacturer": "Эвалар",
-        "type": "бад"
+        "type": "бад",
+        "course": "20"
     },
     {
         "name_medicinal_product": "Вагилак Проледи капс. №15",
         "code": "ЦБ-00153234",
         "manufacturer": "Эгис",
-        "type": "бад"
+        "type": "бад",
+        "course": "7"
     },
     {
         "name_medicinal_product": "Видора микро таб. п/о №21+7",
         "code": "ЦБ-00035767",
         "manufacturer": "Софарма",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Видора микро таб. п/о №24+4",
         "code": "РТ-00008373",
         "manufacturer": "Софарма",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Видора таб. п/о № 21+7",
         "code": "ЦБ-00035766",
         "manufacturer": "Софарма",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Визанна таб. 2мг №28",
         "code": "ЦБ-00000906",
         "manufacturer": "БАЙЕР",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Витажиналь Инозит пор. пак. №30",
         "code": "ЦБ-00154146",
         "manufacturer": "Безен",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витажиналь Мама и Малыш Безен капс. №30",
         "code": "ЦБ-00179394",
         "manufacturer": "Безен",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витажиналь Мама капс. №30",
         "code": "ЦБ-00172931",
         "manufacturer": "Безен",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витакидс вит.С пастилки апельсин №60",
         "code": "ЦБ-00170365",
         "manufacturer": "Витатека",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витакидс Мультивитамин паст. жеват. клубника №60",
         "code": "ЦБ-00170937",
         "manufacturer": "Витатека",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витамин Е (альфа-токоферола ацетат) капс. 100мг №30",
         "code": "ЦБ-00150111",
         "manufacturer": "Мелиген",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витаминный комплекс А-Zn д/женщин таб.№30",
         "code": "ЦБ-00122525",
         "manufacturer": "Квадрат-С",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витаминный комплекс А-Zn д/мужчин таб.№30",
         "code": "ЦБ-00121986",
         "manufacturer": "Квадрат-С",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витамины для волос капс. №60",
         "code": "ЦБ-00156115",
         "manufacturer": "Джи Эл Эс фармасьютикалз",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Витаспектрум Адванс Мультивитаминный комплекс д/всей семьи таб. №30",
         "code": "ЦБ-00175413",
         "manufacturer": "ФармЛайн Лтд",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витрум Иммунактив таб. №30",
         "code": "ЦБ-00154649",
         "manufacturer": "Штада",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витрум Иммунактив таб. №60",
         "code": "ЦБ-00154276",
         "manufacturer": "Штада",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Витрум Иммунактив шипучий таб. шип. №20",
         "code": "ЦБ-00155852",
         "manufacturer": "Штада",
-        "type": "бад"
+        "type": "бад",
+        "course": "20"
     },
     {
         "name_medicinal_product": "Витрум Легкодоступное железо сироп 120мл",
         "code": "ЦБ-00173606",
         "manufacturer": "Штада",
-        "type": "бад"
+        "type": "бад",
+        "course": "24"
     },
     {
         "name_medicinal_product": "Витрум Пренатал Плюс таб. п/о №100",
         "code": "РТ-00005546",
         "manufacturer": "Штада",
-        "type": "бад"
+        "type": "бад",
+        "course": "100"
     },
     {
         "name_medicinal_product": "Витрум Пренатал Плюс таб. п/о №30",
         "code": "РТ-00005545",
         "manufacturer": "Штада",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витрум Ретинорм капс. №90",
         "code": "ЦБ-00165425",
         "manufacturer": "Штада",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витэра В капс. №30",
         "code": "ЦБ-00176940",
         "manufacturer": "Эвалар",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Витэра С капс. №60",
         "code": "ЦБ-00178291",
         "manufacturer": "Эвалар",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Гарде 300 капс. №30",
         "code": "ЦБ-00163426",
         "manufacturer": "Фармакор Продакшн",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Гендевит др. №50 БАД",
         "code": "ЦБ-00152795",
         "manufacturer": "Фармстандарт",
-        "type": "бад"
+        "type": "бад",
+        "course": "50"
     },
     {
         "name_medicinal_product": "ГЛС Витамин А капс. №60",
         "code": "ЦБ-00159210",
         "manufacturer": "Джи Эл Эс фармасьютикалз",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Делсия таб. п/о №21",
         "code": "РТ-00006407",
         "manufacturer": "Ранбакси",
-        "type": "RX"
+        "type": "RX",
+        "course": "21"
     },
     {
         "name_medicinal_product": "Депантол супп. ваг. №10",
         "code": "ЦБ-00001332",
         "manufacturer": "Штада",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "5"
     },
     {
         "name_medicinal_product": "Депантол супп.ваг. 100мг+16мг №20",
         "code": "ЦБ-00159131",
         "manufacturer": "Штада",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Детримакс 2000 Витамин Д3 таб. п/о №60",
         "code": "РТ-00014582",
         "manufacturer": "Юнифарм Инк",
-        "type": "бад"
+        "type": "бад",
+        "course": "240"
     },
     {
         "name_medicinal_product": "Джейна таб. п/п/о 3 мг+0,02 мг №28",
         "code": "ЦБ-00163815",
         "manufacturer": "Сан Фармасьютикал Индастриз Лтд",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Джес плюс таб. №28",
         "code": "ЦБ-00001351",
         "manufacturer": "БАЙЕР",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Джес плюс таб. №84",
         "code": "РТ-00002621",
         "manufacturer": "БАЙЕР",
-        "type": "RX"
+        "type": "RX",
+        "course": "84"
     },
     {
         "name_medicinal_product": "Диециклен таб. п/о № 21",
         "code": "ЦБ-00035764",
         "manufacturer": "Софарма",
-        "type": "RX"
+        "type": "RX",
+        "course": "21"
     },
     {
         "name_medicinal_product": "Диециклен таб. п/о № 21*3",
         "code": "ЦБ-00035765",
         "manufacturer": "Софарма",
-        "type": "RX"
+        "type": "RX",
+        "course": "63"
     },
     {
         "name_medicinal_product": "Димиа таб. 3мг+0,02мг №28",
         "code": "ЦБ-00001442",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Димиа таб. 3мг+0,02мг №84",
         "code": "ЦБ-00021716",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "84"
     },
     {
         "name_medicinal_product": "Дифертон таб. п/о №60",
         "code": "ЦБ-00134536",
         "manufacturer": "Аквион",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Доксазозин таб. 2мг №30",
         "code": "ЦБ-00040416",
         "manufacturer": "Озон МНН",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Доксазозин таб. 4мг №30",
         "code": "РТ-00000781",
         "manufacturer": "Озон МНН",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Доксазозин-Тева таб. 4мг №30",
         "code": "РТ-00004233",
         "manufacturer": "Тева",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Доксазозин-ФПО таб. 2мг №30",
         "code": "ЦБ-00015251",
         "manufacturer": "Оболенское ФП",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Доксазозин-ФПО таб. 4мг №30",
         "code": "ЦБ-00016702",
         "manufacturer": "Алиум",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Доктор Томсон Джонс Омега3 капс. №50",
         "code": "ЦБ-00200427",
         "manufacturer": "Nuvita Ilac ve Kimya San. Tic. A.S",
-        "type": "бад"
+        "type": "бад",
+        "course": "25"
     },
     {
         "name_medicinal_product": "Доппельгерц Актив вит. Д3 500МЕ капли фл. с капельницей-дозатором 9,2мл",
         "code": "ЦБ-00165112",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "300"
     },
     {
         "name_medicinal_product": "Доппельгерц Актив Витамин Д 1000МЕ таб. №30",
         "code": "ЦБ-00134632",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Доппельгерц Актив Витамин С+Д3 таб. шипучие со вкус. лимона №15",
         "code": "ЦБ-00155411",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "15"
     },
     {
         "name_medicinal_product": "Доппельгерц Актив Витамины д/больных диабетом таб. №60",
         "code": "ЦБ-00001533",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Доппельгерц Актив Витамины д/больных диабетом таб. шипучие Апельсин/Маракуйя №15",
         "code": "РТ-00007433",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "15"
     },
     {
         "name_medicinal_product": "Доппельгерц Актив Витамины д/здоровых волос и ногтей капс. №30",
         "code": "ЦБ-00001536",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Доппельгерц Актив Витам-минер комплекс 50+ Апельсин/Маракуйя таб. шип. №15",
         "code": "РТ-00008890",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "15"
     },
     {
         "name_medicinal_product": "Доппельгерц Актив д/женщин таб. шип. №15",
         "code": "ЦБ-00025371",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "15"
     },
     {
         "name_medicinal_product": "Доппельгерц Актив женьшень + таурин таб. шип. цитросувые фрукты №15",
         "code": "ЦБ-00166042",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "15"
     },
     {
         "name_medicinal_product": "Доппельгерц Актив иммуно-комплекс с вит С таб. №30",
         "code": "ЦБ-00150367",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Доппельгерц Актив Капилляр форте капс. №30",
         "code": "ЦБ-00141264",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Доппельгерц Вип Ортопро иммун порошок в саше №30",
         "code": "ЦБ-00168654",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Доппельгерц Вип Офтальмовит капс. №30",
         "code": "ЦБ-00165456",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Доппельгерц Женьшень+Таурин капс. №30",
         "code": "ЦБ-00160642",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Доппельгерц Энерготоник Н 250мл",
         "code": "РТ-00004982",
         "manufacturer": "Квайсер Фарма",
-        "type": "бад"
+        "type": "бад",
+        "course": "5"
     },
     {
         "name_medicinal_product": "Др. Вистонг Сироп элеутерококк 150мл",
         "code": "ЦБ-00015726",
         "manufacturer": "Вис",
-        "type": "бад"
+        "type": "бад",
+        "course": "15"
     },
     {
         "name_medicinal_product": "Дрожжи пивные Нагипол таб. №100",
         "code": "ЦБ-00017768",
         "manufacturer": "Биофарм",
-        "type": "бад"
+        "type": "бад",
+        "course": "6"
     },
     {
         "name_medicinal_product": "Дрожжи пивные Экко плюс селен таб №100",
         "code": "ЦБ-00007428",
         "manufacturer": "Экко плюс",
-        "type": "бад"
+        "type": "бад",
+        "course": "50"
     },
     {
         "name_medicinal_product": "Дуодарт капс. модиф. 500мг+400мг №30",
         "code": "ЦБ-00036382",
         "manufacturer": "ГлаксоСмитКляйнТрейдинг",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Дуодарт капс. модиф. 500мг+400мг №90",
         "code": "ЦБ-00036200",
         "manufacturer": "ГлаксоСмитКляйнТрейдинг",
-        "type": "RX"
+        "type": "RX",
+        "course": "90"
     },
     {
         "name_medicinal_product": "Дуожиналь капс. №20",
         "code": "ЦБ-00161760",
         "manufacturer": "Безен",
-        "type": "бад"
+        "type": "бад",
+        "course": "15"
     },
     {
         "name_medicinal_product": "Дутастерид-Тева капс. 500мг №30",
         "code": "ЦБ-00150317",
         "manufacturer": "Тева",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Дутастерид-Тева капс. 500мг №90",
         "code": "ЦБ-00149462",
         "manufacturer": "Тева",
-        "type": "RX"
+        "type": "RX",
+        "course": "90"
     },
     {
         "name_medicinal_product": "Жанин таб. п/о №21",
         "code": "ЦБ-00007501",
         "manufacturer": "БАЙЕР",
-        "type": "RX"
+        "type": "RX",
+        "course": "21"
     },
     {
         "name_medicinal_product": "Жанин таб. п/о №63",
         "code": "ЦБ-00007502",
         "manufacturer": "БАЙЕР",
-        "type": "RX"
+        "type": "RX",
+        "course": "63"
     },
     {
         "name_medicinal_product": "Железа фумарат капс. №90",
         "code": "ЦБ-00146723",
         "manufacturer": "Джи Эл Эс фармасьютикалз",
-        "type": "бад"
+        "type": "бад",
+        "course": "45"
     },
     {
         "name_medicinal_product": "Железо хелат капс. №60",
         "code": "ЦБ-00171214",
         "manufacturer": "Эвалар",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Женьшень настойка 25мл",
         "code": "ЦБ-00030925",
         "manufacturer": "Тульская фармацевтическая фабрика",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "13"
     },
     {
         "name_medicinal_product": "Женьшень Форте с вит.С капс. №30",
         "code": "ЦБ-00167260",
         "manufacturer": "Вис",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Зайчонок Спокойствие паст. мармелад. жев. дет. с 3лет №30",
         "code": "ЦБ-00134795",
         "manufacturer": "Алкой",
-        "type": "бад"
+        "type": "бад",
+        "course": "15"
     },
     {
         "name_medicinal_product": "Зафрилла таб. 2мг №28",
         "code": "ЦБ-00121326",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Зафрилла таб. 2мг №84",
         "code": "ЦБ-00166020",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "84"
     },
     {
         "name_medicinal_product": "Зрениум капс. №30",
         "code": "ЦБ-00176123",
         "manufacturer": "Эвалар",
-        "type": "бад"
+        "type": "бад",
+        "course": "15"
     },
     {
         "name_medicinal_product": "Имастон капс. №30",
         "code": "ЦБ-00175888",
         "manufacturer": "Аквион",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Импаза таб. №20",
         "code": "ЦБ-00001681",
         "manufacturer": "Материа Медика Холдинг",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "10"
     },
     {
         "name_medicinal_product": "КардиоМ Калий магний таб. п/о №50",
         "code": "ЦБ-00164264",
         "manufacturer": "Штада",
-        "type": "бад"
+        "type": "бад",
+        "course": "12"
     },
     {
         "name_medicinal_product": "Клайра таб. п/о №84",
         "code": "ЦБ-00018462",
         "manufacturer": "БАЙЕР",
-        "type": "RX"
+        "type": "RX",
+        "course": "84"
     },
     {
         "name_medicinal_product": "КомплигамВ р-р д/ин. 2мл №10",
         "code": "ЦБ-00002116",
         "manufacturer": "Сотекс",
-        "type": "RX"
+        "type": "RX",
+        "course": "10"
     },
     {
         "name_medicinal_product": "КомплигамВ р-р д/ин. 2мл №5",
         "code": "ЦБ-00002117",
         "manufacturer": "Сотекс",
-        "type": "RX"
+        "type": "RX",
+        "course": "5"
     },
     {
         "name_medicinal_product": "Купить Orlett ортез голеностопного сустава, р. L, LAB-201, бандаж, с ребрами жесткости и шнуровкой",
         "code": "ЦБ-01015014",
         "manufacturer": null,
-        "type": null
+        "type": null,
+        "course": null
     },
     {
         "name_medicinal_product": "Лактинет-Рихтер таб. п/о 75мкг №28",
         "code": "ЦБ-00009150",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Ларигама р-р в/м 2мл №10",
         "code": "РТ-00012872",
         "manufacturer": "Гротекс",
-        "type": "RX"
+        "type": "RX",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Левзея экстр. жидк. 25мл",
         "code": "ЦБ-00153302",
         "manufacturer": "Камелия-Лт",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "11"
     },
     {
         "name_medicinal_product": "Лимонник семена настойка 25мл",
         "code": "ЦБ-00032689",
         "manufacturer": "Тульская фармацевтическая фабрика",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "11"
     },
     {
         "name_medicinal_product": "Марвелон таб. №21",
         "code": "ЦБ-00009555",
         "manufacturer": "Органон",
-        "type": "RX"
+        "type": "RX",
+        "course": "21"
     },
     {
         "name_medicinal_product": "Марвелон таб. №63",
         "code": "ЦБ-00002525",
         "manufacturer": "Органон",
-        "type": "RX"
+        "type": "RX",
+        "course": "63"
     },
     {
         "name_medicinal_product": "Мерсилон таб. №21",
         "code": "ЦБ-00002566",
         "manufacturer": "МСД фармасьютикалс",
-        "type": "RX"
+        "type": "RX",
+        "course": "21"
     },
     {
         "name_medicinal_product": "Мидиана таб. п.о №21",
         "code": "ЦБ-00002621",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "21"
     },
     {
         "name_medicinal_product": "Мидиана таб. п/о №63",
         "code": "ЦБ-00018475",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "63"
     },
     {
         "name_medicinal_product": "Мильгамма композитум таб. №30",
         "code": "РТ-00008134",
         "manufacturer": "Верваг",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Мильгамма композитум таб. №60",
         "code": "РТ-00008135",
         "manufacturer": "Верваг",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Мильгамма р-р в/м 2мл №10",
         "code": "ЦБ-00002654",
         "manufacturer": "Верваг",
-        "type": "RX"
+        "type": "RX",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Мильгамма р-р в/м 2мл №5",
         "code": "ЦБ-00002656",
         "manufacturer": "Верваг",
-        "type": "RX"
+        "type": "RX",
+        "course": "5"
     },
     {
         "name_medicinal_product": "Нейробион р-р в/м 3мл №3",
         "code": "ЦБ-00010534",
         "manufacturer": "Др.Реддис",
-        "type": "RX"
+        "type": "RX",
+        "course": "3"
     },
     {
         "name_medicinal_product": "Нейромультивит р-р д/ин. 2мл №10",
         "code": "РТ-00002392",
         "manufacturer": "Бауш Румо",
-        "type": "RX"
+        "type": "RX",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Нейромультивит р-р д/ин. 2мл №5",
         "code": "РТ-00002393",
         "manufacturer": "Бауш Румо",
-        "type": "RX"
+        "type": "RX",
+        "course": "5"
     },
     {
         "name_medicinal_product": "Новинет таб. №21",
         "code": "ЦБ-00002878",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "21"
     },
     {
         "name_medicinal_product": "Новинет таб. №63",
         "code": "ЦБ-00002879",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "63"
     },
     {
         "name_medicinal_product": "Норметрилла таб. 2мг №28",
         "code": "ЦБ-00186154",
         "manufacturer": "Алиум",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Норметрилла таб. 2мг №84",
         "code": "ЦБ-00186155",
         "manufacturer": "Алиум",
-        "type": "RX"
+        "type": "RX",
+        "course": "84"
     },
     {
         "name_medicinal_product": "Нэйчес Баунти Витамин С 500мг и шиповник таб. №100",
         "code": "ЦБ-00031350",
         "manufacturer": "Солгар",
-        "type": "бад"
+        "type": "бад",
+        "course": "100"
     },
     {
         "name_medicinal_product": "Нэйчес Баунти Витамин С с цинком таб. быстрораствор. 500мг №60",
         "code": "РТ-00001277",
         "manufacturer": "Солгар",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Нэйчес Баунти Гаммис Витамин С плюс цинк паст. жев. №60",
         "code": "ЦБ-00155894",
         "manufacturer": "Солгар",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Нэйчес Баунти Эстер-С таб. 500мг №60",
         "code": "ЦБ-00039306",
         "manufacturer": "Солгар",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Пантокрин экстр. жидк. 50мл",
         "code": "ЦБ-00003145",
         "manufacturer": "Эвалар",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "8"
     },
     {
         "name_medicinal_product": "Пропротен-100 таб. №20",
         "code": "ЦБ-00003420",
         "manufacturer": "Материа Медика Холдинг",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Пропротен-100 таб. №40",
         "code": "ЦБ-00003421",
         "manufacturer": "Материа Медика Холдинг",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "20"
     },
     {
         "name_medicinal_product": "Регулон таб. №21",
         "code": "ЦБ-00003497",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "21"
     },
     {
         "name_medicinal_product": "Регулон таб. №63",
         "code": "ЦБ-00003498",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "63"
     },
     {
         "name_medicinal_product": "Ретинола ацетат (вит А) капс. 3300МЕ №20",
         "code": "ЦБ-00003540",
         "manufacturer": "Мелиген",
-        "type": "бад"
+        "type": "бад",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Ретинола пальмитат (вит А) 100 тыс.МЕ р-р масляный 10мл",
         "code": "ЦБ-00003545",
         "manufacturer": "Ретиноиды ФНПП",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "33"
     },
     {
         "name_medicinal_product": "Ретинола пальмитат (вит А) 100 тыс.МЕ р-р масляный 50мл",
         "code": "ЦБ-00027173",
         "manufacturer": "Ретиноиды ФНПП",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "166"
     },
     {
         "name_medicinal_product": "Родиола розовая экстр. жидк. 30мл",
         "code": "ЦБ-00003591",
         "manufacturer": "Вифитех",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "40"
     },
     {
         "name_medicinal_product": "Селана таб. п/п/о 1мг №30",
         "code": "ЦБ-00090203",
         "manufacturer": "Натива",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Сенс оф Лайф Вит. Д3 2000МЕ капс. №120",
         "code": "ЦБ-00180536",
         "manufacturer": "ФармЛайн Лтд",
-        "type": "бад"
+        "type": "бад",
+        "course": "120"
     },
     {
         "name_medicinal_product": "Сенс оф Лайф Вит. Д3 2000МЕ капс. №60",
         "code": "ЦБ-00180535",
         "manufacturer": "ФармЛайн Лтд",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Септофемин таб. ваг. 10мг №6",
         "code": "ЦБ-00169374",
         "manufacturer": "Алкой",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "6"
     },
     {
         "name_medicinal_product": "Силует таб. 2мг+0,03мг №21",
         "code": "ЦБ-00012811",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "21"
     },
     {
         "name_medicinal_product": "Силует таб. 2мг+0,03мг №63",
         "code": "ЦБ-00012812",
         "manufacturer": "Гедеон Рихтер",
-        "type": "RX"
+        "type": "RX",
+        "course": "63"
     },
     {
         "name_medicinal_product": "Солгар Витамин Д3 600МЕ капс. №120",
         "code": "РТ-00008021",
         "manufacturer": "Солгар",
-        "type": "бад"
+        "type": "бад",
+        "course": "120"
     },
     {
         "name_medicinal_product": "Солгар Витамин Д3 600МЕ капс. №60",
         "code": "ЦБ-00012908",
         "manufacturer": "Солгар",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Солгар дневной стресс-контроль капс. №30",
         "code": "ЦБ-00164663",
         "manufacturer": "Солгар",
-        "type": "бад"
+        "type": "бад",
+        "course": "15"
     },
     {
         "name_medicinal_product": "Солгар Комплекс основных аминокислот капс. №30",
         "code": "ЦБ-00012924",
         "manufacturer": "Солгар",
-        "type": "бад"
+        "type": "бад",
+        "course": "5"
     },
     {
         "name_medicinal_product": "Солгар сухой вит.А таб. 1500мкг(5000 МЕ) №100",
         "code": "ЦБ-00140718",
         "manufacturer": "Солгар",
-        "type": "бад"
+        "type": "бад",
+        "course": "100"
     },
     {
         "name_medicinal_product": "Сорбифер Дурулес таб. п/о №30",
         "code": "ЦБ-00003793",
         "manufacturer": "Эгис",
-        "type": "RX"
+        "type": "RX",
+        "course": "15"
     },
     {
         "name_medicinal_product": "Сорбифер Дурулес таб. п/о №50",
         "code": "ЦБ-00003794",
         "manufacturer": "Эгис",
-        "type": "RX"
+        "type": "RX",
+        "course": "25"
     },
     {
         "name_medicinal_product": "Супрадин Иммуно Про таб. шип. №15",
         "code": "ЦБ-00178324",
         "manufacturer": "Байер Консъюмер",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Супрадин Иммуно Про таб. шип. №30",
         "code": "ЦБ-00178515",
         "manufacturer": "Байер Консъюмер",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Супрадин Иммуно тройное действие таб. шип. №15",
         "code": "ЦБ-00174081",
         "manufacturer": "Байер Консъюмер",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Супрадин Иммуно Тройное действие таб. шип. №30",
         "code": "ЦБ-00176854",
         "manufacturer": "Байер Консъюмер",
-        "type": "бад"
+        "type": "бад",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Тетралаб Витамин Д3 2000 диспергируемый таб. №120",
         "code": "ЦБ-00177489",
         "manufacturer": "Квадрат-С",
-        "type": "бад"
+        "type": "бад",
+        "course": "120"
     },
     {
         "name_medicinal_product": "Тетралаб Витамин Д3 2000 таб. №120",
         "code": "ЦБ-00159165",
         "manufacturer": "Квадрат-С",
-        "type": "бад"
+        "type": "бад",
+        "course": "120"
     },
     {
         "name_medicinal_product": "Тетралаб Комплекс от А до цинка д/детей 3-7лет таб. жева. №60",
         "code": "ЦБ-00169687",
         "manufacturer": "Квадрат-С",
-        "type": "бад"
+        "type": "бад",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Тиамин (вит. В1) р-р д/ин. 5% 1мл №10",
         "code": "ЦБ-00015366",
         "manufacturer": "Ереванская химико-фармацевтическая фирма",
-        "type": "RX"
+        "type": "RX",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Тотема р-р внутр амп. 10мл №20",
         "code": "ЦБ-00004048",
         "manufacturer": "Иннотек",
-        "type": "RX"
+        "type": "RX",
+        "course": "7"
     },
     {
         "name_medicinal_product": "Три-Мерси таб. п.о №21",
         "code": "ЦБ-00004068",
         "manufacturer": "Аспен фарма",
-        "type": "RX"
+        "type": "RX",
+        "course": "21"
     },
     {
         "name_medicinal_product": "Уролесан капли 25мл",
         "code": "ЦБ-00004162",
         "manufacturer": "Кировская фармацевтическая фабрика",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "16"
     },
     {
         "name_medicinal_product": "Фемостон 1 таб. п.о №28",
         "code": "РТ-00001524",
         "manufacturer": "Эбботт Лэбораториз ГмбХ",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Фемостон 1/5 Конти таб. п/о №28",
         "code": "ЦБ-00014143",
         "manufacturer": "Эбботт Лэбораториз ГмбХ",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Фемостон 2 таб. п/о №28",
         "code": "РТ-00002299",
         "manufacturer": "Эбботт Лэбораториз ГмбХ",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Фемостон Мини 2,5мг/0,5мг таб. п/о №28",
         "code": "РТ-00001338",
         "manufacturer": "Эбботт Лэбораториз ГмбХ",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Ферлатум р-р внутр 800мг 15мл №20",
         "code": "ЦБ-00004249",
         "manufacturer": "Италфармако",
-        "type": "RX"
+        "type": "RX",
+        "course": "10"
     },
     {
         "name_medicinal_product": "Ферлатум фол р-р д/приема внутрь 15мл №10",
         "code": "ЦБ-00004247",
         "manufacturer": "Италфармако",
-        "type": "RX"
+        "type": "RX",
+        "course": "5"
     },
     {
         "name_medicinal_product": "Ферретаб комп. капс. пролонг. №30",
         "code": "ЦБ-00004251",
         "manufacturer": "Алцея",
-        "type": "RX"
+        "type": "RX",
+        "course": "30"
     },
     {
         "name_medicinal_product": "Ферро-фольгамма Нео таб. п/о с модиф. высвоб. №50",
         "code": "ЦБ-00165974",
         "manufacturer": "Верваг",
-        "type": "RX"
+        "type": "RX",
+        "course": "50"
     },
     {
         "name_medicinal_product": "Флуомизин таб. ваг. 10мг №6",
         "code": "ЦБ-00004347",
         "manufacturer": "Гедеон Рихтер",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "6"
     },
     {
         "name_medicinal_product": "Фортедетрим капс. 10000МЕ №30",
         "code": "ЦБ-00129448",
         "manufacturer": "Акрихин",
-        "type": "RX"
+        "type": "RX",
+        "course": "42"
     },
     {
         "name_medicinal_product": "Фортедетрим капс. 4000МЕ №30",
         "code": "ЦБ-00129497",
         "manufacturer": "Акрихин",
-        "type": "RX"
+        "type": "RX",
+        "course": "15"
     },
     {
         "name_medicinal_product": "Фортедетрим капс. 50000МЕ №10",
         "code": "ЦБ-00179897",
         "manufacturer": "Акрихин",
-        "type": "RX"
+        "type": "RX",
+        "course": "70"
     },
     {
         "name_medicinal_product": "Цервикон-Дим супп. вагинальные 100мг №25",
         "code": "РТ-00007721",
         "manufacturer": "Алцея",
-        "type": "RX"
+        "type": "RX",
+        "course": "12"
     },
     {
         "name_medicinal_product": "Цитипигам композитум таблетки п/п/о 100мг + 100мг №60",
         "code": "ЦБ-00153747",
         "manufacturer": "Озон Бренд",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "60"
     },
     {
         "name_medicinal_product": "Чарозетта таб. п.о 75мкг №28",
         "code": "ЦБ-00004638",
         "manufacturer": "Органон",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Чарозетта таб. п.о 75мкг №84",
         "code": "ЦБ-00004639",
         "manufacturer": "Органон",
-        "type": "RX"
+        "type": "RX",
+        "course": "84"
     },
     {
         "name_medicinal_product": "Эвисент дрожжи пивные с серой №100",
         "code": "ЦБ-00027434",
         "manufacturer": "Алкой",
-        "type": "бад"
+        "type": "бад",
+        "course": "11"
     },
     {
         "name_medicinal_product": "Элеутерококк драже 0.18г №50",
         "code": "ЦБ-00014931",
         "manufacturer": "Биокор",
-        "type": "бад"
+        "type": "бад",
+        "course": "12"
     },
     {
         "name_medicinal_product": "Элеутерококк драже №100",
         "code": "ЦБ-00037332",
         "manufacturer": "Биокор",
-        "type": "бад"
+        "type": "бад",
+        "course": "25"
     },
     {
         "name_medicinal_product": "Элеутерококк П драже 200мг №100",
         "code": "ЦБ-00014932",
         "manufacturer": "Парафарм",
-        "type": "бад"
+        "type": "бад",
+        "course": "25"
     },
     {
         "name_medicinal_product": "Элеутерококк экстр. жидк. 50мл",
         "code": "ЦБ-00004716",
         "manufacturer": "Тульская фармацевтическая фабрика",
-        "type": "OTC"
+        "type": "OTC",
+        "course": "22"
     },
     {
         "name_medicinal_product": "Ярина плюс таб. п/о №28",
         "code": "ЦБ-00016590",
         "manufacturer": "БАЙЕР",
-        "type": "RX"
+        "type": "RX",
+        "course": "28"
     },
     {
         "name_medicinal_product": "Ярина таб. п/о №63",
         "code": "ЦБ-00015014",
         "manufacturer": "БАЙЕР",
-        "type": "RX"
+        "type": "RX",
+        "course": "63"
     }
 ]
